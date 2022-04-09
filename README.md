@@ -1,4 +1,4 @@
-# COSC-310-Assignment2
+# Individual Assignment-310
 ## A brief description of our project: <br>
 Our project is a simple and friendly chat-bot with which the user can talk about their hobbies, interests etc.  We are using the chat bot as a friend but in most cases these days these bots are used for customer service. Keeping in mind the recent pandemic and how it has changed everyone’s social lives. A virtual “friend” is able to make normal conversations and allows the user to chat to this bot anytime and share their experiences when their friends are busy or for the people who have a hard time socialising.
 <br>
