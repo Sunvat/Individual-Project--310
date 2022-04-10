@@ -12,10 +12,12 @@ The project is a simple and friendly chat-bot with which the user can talk about
  |GUI|An improved GUI which makes the user feel more comfortable making conversations with the Bot.|
  |Static Maps API|The static maps API is a google api which allows the developers to integrated maps into the java appication.|
  
+ ---
  
  ## Added Java Files:
  1. Translate.java : This is the jva file which the bot uses to convert the text from the user to another language, in this case french.
- 
+ 2. 
+ ---
  
  
  ## Chosen SDLC: Waterfall Model
