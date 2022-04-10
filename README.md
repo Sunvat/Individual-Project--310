@@ -44,7 +44,7 @@ On the other hand, this model does slow down the process as the team needs to co
 
 # Current DataFlow Diagram with Added APIs:
 
-<img src = "https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png" width="50%" height="50%">
+<img src = "https://github.com/Sunvat/Individual-Project--310/blob/main/images/final_dfd.png" width = "50%" height = "50%">
 
 
 We have also added two data flow diagrams for this project.
