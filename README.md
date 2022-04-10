@@ -37,12 +37,6 @@ On the other hand, this model does slow down the process as the team needs to co
 5. MAINTAINENECE
 
 ---
-## Assignment 3 Updates:
-1. Added a better GUI for the user to feel like the individual is having a normal conversation with the bot. (**Figure 1**)
-2. Added another topic of discussion regarding the topic, our bot was a freindly bot which would suggest some plans for the weekned, we added arcade to the list. This would allow the conversation to be more immersive.(**Figure 2**)  
-4. Before there were 3 responses given if the user entered something out of topic, now there are five responses that the bot can provide the user with. The responses before were more repetitive and now as there are more responses that the bot could give, so the uder feels like it is a more normal conversation rather than talking to a bot.(**Figure 3**)
-5. On entering “Clear screen” our Code clears the conversation and sets the screen empty 
-6. If the user input is not understood by the Code, our code opens google search to look up for solutions.
 
 
 ---
