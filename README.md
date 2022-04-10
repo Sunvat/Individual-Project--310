@@ -15,7 +15,7 @@ The project is a simple and friendly chat-bot with which the user can talk about
  ---
  
  ## Added Java Files:
- 1. Translate.java : This is the jva file which the bot uses to convert the text from the user to another language, in this case french.
+ 1. Translate.java : This is the jva file which the bot uses to convert the text from the user to another language, in this case french. The file basically works as follows, it takes the google translate API, opens a new connection using URL library. Uses the text from user as value which is to be passes as parameters i.e. the parameter that has to be translated. The method called "translate" gets two more parameters called src for source and tar for target which are defined as "en"(english) and "fr" respectively. Meaning that the english sentence which is input will be translated to French and returned as an output by the method which then will be tranferred to the ChatBot class which will display the result.
  2. 
  ---
  
