@@ -10,6 +10,7 @@ The project is a simple and friendly chat-bot with which the user can talk about
  |---|---|
  |Google Translate API|The google translate API uses real time translation of the texts that are input by the user in this project the language converted to is French.|
  |GUI|An improved GUI which makes the user feel more comfortable making conversations with the Bot.|
+ |Static Maps API|The static maps API is a google api which allows the developers to integrated maps into the java appication.|
  
  
  
