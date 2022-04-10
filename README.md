@@ -44,7 +44,7 @@ On the other hand, this model does slow down the process as the team needs to co
 
 We have also added two data flow diagrams for this project.
 ### Data Flow Diagram for Level 0:
-![dfd0](https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png)
+<img src="https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png" width=200 height=200">
 <br>
 ### Data Flow Diagram for Level 1:
 ![dfd1](https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%201%20(1).png)
