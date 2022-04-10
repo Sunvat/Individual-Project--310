@@ -42,6 +42,11 @@ On the other hand, this model does slow down the process as the team needs to co
 ---
 ## Data Flow Diagrams
 
+# Current DataFlow Diagram with Added APIs:
+
+<img src = "https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png" width="50%" height="50%">
+
+
 We have also added two data flow diagrams for this project.
 ### Data Flow Diagram for Level 0:
 <img src = "https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png" width="50%" height="50%">
