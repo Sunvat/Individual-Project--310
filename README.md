@@ -50,4 +50,4 @@ We have also added two data flow diagrams for this project.
 
 ## Data Flow Diagram for Level 1:
 
-<img src = "https://github.com/aaliazoya/COSC-310-Assignment2/blob/main/images/Data%20Flow%20Diagram%20level%200%20.png" width="50%" height="50%">
+<img src = "https://github.com/Sunvat/Individual-Project--310/blob/main/images/Data%20Flow%20Diagram%20level%201%20(1).png" width="50%" height="50%">
