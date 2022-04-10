@@ -6,7 +6,11 @@ The project is a simple and friendly chat-bot with which the user can talk about
 
 ---
 ## Setup:
-
+To run the chat bot:
+1. Create a new java project in any ide.
+2. import all the java files in the project.
+3. Setup the correct path for the jar files.
+4. Press run and you are good to go.
 
 ---
  ## Added Features after A3:
